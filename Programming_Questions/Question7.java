@@ -1,0 +1,1 @@
+// WAP to count how many factors are present for the given number
